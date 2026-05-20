@@ -158,7 +158,7 @@ def test_model(model, test_loader, dataset_type="Test"):
             
     print(f"{dataset_type} accuracy: {100* correct / total:.2f}%")
 
-# %% main (Ana Çalıştırma Bloğu)
+# %% main 
 
 if __name__ == "__main__":
 
